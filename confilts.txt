@@ -15,3 +15,5 @@ and click any one
 then finally as 
 
 add and commit and push
+
+in successfully resolving git
