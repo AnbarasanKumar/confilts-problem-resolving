@@ -18,4 +18,6 @@ add and commit and push
 
 in successfully resolving git
 
-if add on this line 
+if try problem
+
+and in this bug branch
