@@ -1,3 +1,17 @@
 This is a confilts has occured an then solve and why?
 
-This is bug
+This is bug 
+
+and then resolving
+
+if checkout main and pull
+
+and checkout sub-branch or now what branch change 
+
+if change as incoming and current and both and compare
+
+and click any one
+
+then finally as 
+
+add and commit and push
